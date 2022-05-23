@@ -1,13 +1,17 @@
+
+/* Universal underlying style*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Give body a grey background*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Header - font and colours*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +24,12 @@ body {
     font-size: 48px;
 }
 
+/* Make the letters "seo" in Horiseon a different colour*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*Navigation in header style*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +47,7 @@ body {
     margin-left: 25px;
 }
 
+/* a and p tag styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +57,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +67,7 @@ p {
     background-position: center;
 }
 
+/* Float left and right classes for images in body*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +78,15 @@ p {
     margin-left: 25px;
 }
 
+/* Content class style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+/*Benefits class - Styles for all parts of benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
