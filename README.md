@@ -22,4 +22,4 @@ Course code for this project is at https://monash.bootcampcontent.com/monash-cod
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+This is unknown to developers at this stage as we do not have that information from MBC. Assumption is that it is common use for students.
